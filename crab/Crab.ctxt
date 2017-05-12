@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Crab
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ Act\ -\ do\ whatever\ the\ Crab\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment2.params=
+comment2.target=void\ leeTecla()
+comment2.text=\r\n\ Metodo\ que\ lee\ del\ teclado,\ y\ si\ la\ tecla\ coincide,\ rota\ la\ cara\ de\ cangrejo\r\n\ hacia\ donde\ indica\ la\ tecla\r\n
+comment3.params=
+comment3.target=boolean\ encimaGusano()
+comment4.params=
+comment4.target=void\ comeGusano()
+numComments=5
